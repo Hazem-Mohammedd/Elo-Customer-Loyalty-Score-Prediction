@@ -78,9 +78,9 @@ To keep the code organized and reusable, a separate Python script (`Helpers.py`)
 
 ## Team Members
 
+- Hazem Mohamed Samy – hazemmuhammedd1@gmail.com
 - Mahmoud Emam Elhout – ma7moudel7out@gmail.com
 - Tarek Ahmed Ali – Tareahme@gmail.com
-- Hazem Mohamed Samy – hazemmuhammedd1@gmail.com
 - Asmaa Gamal AbdElnasser – gasmaa188@outlook.com
 
 ---
